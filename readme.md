@@ -1,4 +1,4 @@
-# Three.js Journey
+# Three.js Full screen and Resizing 
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
